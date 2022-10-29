@@ -2,30 +2,30 @@ header nav{
     width: 100%;
     height: 80px;
     display: flex;
-    flex-direction: row;
-    background-color: rgb(31, 48, 143);
+    /* background-color: rgb(31, 48, 143); */
 }
 
 .lc-bank-logo{
-    width: 20%;
+    width: 15%;
     height: auto;
-    background-color: rgb(204, 121, 121);
+    cursor: pointer;
 }
 
 .lc-bank-logo img{
     width: 100%;
     height: 100%;
+    /* background-color: blueviolet; */
 }
 
 .lc-bank-links{
-    width: 55%;
+    width: 60%;
     height: 100%;
-    background-color: brown;
+    /* background-color: brown; */
 }
 
 .lc-bank-links ul{
     display: flex;
-    background-color: aqua;
+    /* background-color: aqua; */
     list-style: none;
     margin-top: 30px;
     justify-content: space-around;
@@ -33,7 +33,7 @@ header nav{
 }
 
 .lc-bank-links ul li:hover{
-    transition: .2s ease-in-out;
+    transition: .2ms ease-in-out;
     border-bottom: 2px solid #06D8A5;
 }
 
