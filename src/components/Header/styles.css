@@ -1,0 +1,82 @@
+header nav{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(31, 48, 143);
+}
+
+.lc-bank-logo{
+    width: 20%;
+    height: auto;
+    background-color: rgb(204, 121, 121);
+}
+
+.lc-bank-logo img{
+    width: 100%;
+    height: 100%;
+}
+
+.lc-bank-links{
+    width: 55%;
+    height: 100%;
+    background-color: brown;
+}
+
+.lc-bank-links ul{
+    display: flex;
+    background-color: aqua;
+    list-style: none;
+    margin-top: 30px;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+.lc-bank-links ul li:hover{
+    transition: .2s ease-in-out;
+    border-bottom: 2px solid #06D8A5;
+}
+
+.lc-bank-buttons{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: chartreuse; */
+}
+
+.lc-bank-buttons input{
+    margin: auto;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+}
+
+#btn-cadastrar{
+    width: 150px;
+    height: 50px;
+    color: #fff;
+    background-color: #06D8A5;
+}
+
+#btn-login{
+    width: 135px;
+    height: 50px;
+    color: #06D8A5;
+    background-color: #fff;
+    border: 1px solid #06D8A5;
+}
+
+#btn-login:hover{
+    background-color: #06D8A5;
+    color: #fff;
+    transition: all 0.5s;
+}
+
+#btn-cadastrar:hover{
+    background-color: #fff;
+    color: #06D8A5;
+    transition: all 0.5s;
+    border: 1px solid #06D8A5;
+}
