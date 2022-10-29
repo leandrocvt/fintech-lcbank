@@ -1,0 +1,42 @@
+.abrir-conta{
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    background-color: chocolate;
+}
+
+.txt-abrir-conta{
+    width: 50%;
+    text-align: center;
+    /* background-color: rgb(236, 19, 226); */
+}
+
+.txt-abrir-conta h1{
+    font-size: 50px;
+    /* background-color: cornflowerblue; */
+}
+
+.txt-abrir-conta p{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    /* background-color: aquamarine; */
+}
+
+.img-abrir-conta{
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+    /* background-color: brown; */
+}
+
+.img-abrir-conta img{
+    width: 100%;
+    height: 100%;
+}
+
+.div-abrir-conta{
+    width: 250px;
+    margin: auto;
+    align-items: center;
+}

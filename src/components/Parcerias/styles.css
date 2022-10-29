@@ -3,7 +3,7 @@
     height: auto;
     display: flex;
     flex-direction: column;
-    background-color: brown;
+    /* background-color: brown; */
 }
 
 .lc-bank-parcerias h2{
@@ -32,8 +32,13 @@
     margin-top: 40px;
 }
 
-.lc-bank-logo{
-    width: 15%;
+.lc-bank-logo-parceiros{
+    width: 19%;
     height: 50px;
     /* background-color: blue; */
+}
+
+.lc-bank-logo-parceiros img{
+    width: 100%;
+    height: 100%;
 }

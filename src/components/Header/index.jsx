@@ -5,9 +5,8 @@ import './styles.css';
 function Header() {
     return (
         <header>
-            <nav>
                 <div className="lc-bank-logo">
-                    <img src={logo} alt="" />
+                    <img src={logo} alt="" className='logo'/>
                 </div>
                 <div className='lc-bank-links'>
                     <ul>
@@ -21,7 +20,7 @@ function Header() {
                     <input type="button" value="Criar conta" id='btn-cadastrar'/>
                     <input type="button" value="Acessar" id='btn-login'/>
                 </div>
-            </nav>
+            
         </header>
     )
 }

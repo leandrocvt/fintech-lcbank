@@ -11,27 +11,27 @@ function Parcerias() {
             <h2>Parcerias</h2>
             <p className='txt-parcerias'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
             <div id='lc-bank-parcerias-logos'>
-                <div className='lc-bank-logo'>
+                <div className='lc-bank-logo-parceiros'>
                     <a href="https://nubank.com.br" target="_blank" rel="noopener noreferrer">
                         <img src={nu} alt="Logo da Nubank" />
                     </a>
                 </div>
-                <div className='lc-bank-logo'>
+                <div className='lc-bank-logo-parceiros'>
                     <a href="https://www.bancopan.com.br/" target="_blank" rel="noopener noreferrer">
                         <img src={pan} alt="" />
                     </a>
                 </div>
-                <div className='lc-bank-logo'>
+                <div className='lc-bank-logo-parceiros'>
                     <a href="https://www.bancointer.com.br" target="_blank" rel="noopener noreferrer">
                         <img src={inter} alt="" />
                     </a>
                 </div>
-                <div className='lc-bank-logo'>
+                <div className='lc-bank-logo-parceiros'>
                     <a href="https://nubank.com.br" target="_blank" rel="noopener noreferrer">
                         <img src={gg} alt="" />
                     </a>
                 </div>
-                <div className='lc-bank-logo'>
+                <div className='lc-bank-logo-parceiros'>
                     <a href="https://nubank.com.br" target="_blank" rel="noopener noreferrer">
                         <img src={ha} alt="" />
                     </a>

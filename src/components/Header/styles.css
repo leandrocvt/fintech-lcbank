@@ -1,4 +1,4 @@
-header nav{
+header{
     width: 100%;
     height: 80px;
     display: flex;
@@ -7,15 +7,15 @@ header nav{
 
 .lc-bank-logo{
     width: 15%;
-    height: auto;
     cursor: pointer;
+    /* background-color: blue; */
 }
 
-.lc-bank-logo img{
+.lc-bank-logo .logo{
     width: 100%;
     height: 100%;
     /* background-color: blueviolet; */
-}
+} 
 
 .lc-bank-links{
     width: 60%;

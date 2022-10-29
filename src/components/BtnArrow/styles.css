@@ -1,0 +1,27 @@
+.div-btn{
+    position: relative;
+    width: 250px;
+    height: 65px;
+    margin-top: 30px;
+    /* background-color: rgb(43, 107, 226); */
+}
+
+#btn-pedir-cartao{
+    margin: auto;
+    width: 250px;
+    height: 65px;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #06D8A5;
+    color: #fff;
+    padding-right: 60px;
+}
+
+.div-btn .arrow-right{
+    position: absolute;
+    top: 25px;
+    left: 170px;
+    cursor: pointer;
+} 
