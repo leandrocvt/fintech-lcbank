@@ -8,6 +8,7 @@ import AppMobile from './components/AppMobile';
 import Banco from './components/Banco';
 import QualidadeBanco from './components/QualidadeBanco';
 import RedesSociais from './components/RedesSociais';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Banco />
         <QualidadeBanco />
         <RedesSociais />
+        <Footer/>
         <Routes>
           <Route />
         </Routes>
