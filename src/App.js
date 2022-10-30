@@ -5,6 +5,7 @@ import Inicio from './components/Inicio';
 import Parcerias from './components/Parcerias';
 import AbrirConta from './components/AbrirConta';
 import AppMobile from './components/AppMobile';
+import Banco from './components/Banco';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Parcerias />
         <AbrirConta />
         <AppMobile />
+        <Banco />
         <Routes>
           <Route />
         </Routes>
