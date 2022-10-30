@@ -27,7 +27,7 @@ function Parcerias() {
                     </a>
                 </div>
                 <div className='lc-bank-logo-parceiros'>
-                    <a href="https://nubank.com.br" target="_blank" rel="noopener noreferrer">
+                    <a href="https://fintechggbank.vercel.app" target="_blank" rel="noopener noreferrer">
                         <img src={gg} alt="" />
                     </a>
                 </div>
