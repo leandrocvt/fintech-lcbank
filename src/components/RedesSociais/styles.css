@@ -1,0 +1,42 @@
+.redes-sociais{
+    width: 100%;
+    height: 650px;
+    /* background-color: brown; */
+}
+
+.img-redes-sociais{
+    width: 35%;
+    height: auto;
+}
+
+.img-redes-sociais img{
+    width: 100%;
+    height: 100%;
+}
+
+.redes-sociais-links{
+    width: 65%;
+    /* background-color: chartreuse; */
+}
+
+.redes-sociais-links h1{
+    padding: 0px;
+    margin-top: 70px;
+    /* background-color: blueviolet; */
+}
+
+.txt-redes-sociais-sub{
+    text-align: center;
+    margin-top: 30px;
+    /* background-color: chocolate; */
+}
+
+.redes-sociais-bank{
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: black; */
+}
