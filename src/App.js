@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Inicio from './components/Inicio';
 import Parcerias from './components/Parcerias';
 import AbrirConta from './components/AbrirConta';
+import AppMobile from './components/AppMobile';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Inicio/>
         <Parcerias />
         <AbrirConta />
+        <AppMobile />
         <Routes>
           <Route />
         </Routes>
