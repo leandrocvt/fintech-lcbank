@@ -1,0 +1,25 @@
+.lc-bank-qualidade-banco{
+    width: 100%;
+    height: 600px;
+    /* background-color: blueviolet; */
+}
+
+.img-qualidade-banco{
+    width: 40%;
+    height: 100%;
+    /* background-color: black; */
+}
+
+.img-qualidade-banco img{
+    width: 100%;
+    height: 100%;
+}
+
+.txt-qualidade-banco{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* background-color: chartreuse; */
+}

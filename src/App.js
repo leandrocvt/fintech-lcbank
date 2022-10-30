@@ -6,6 +6,7 @@ import Parcerias from './components/Parcerias';
 import AbrirConta from './components/AbrirConta';
 import AppMobile from './components/AppMobile';
 import Banco from './components/Banco';
+import QualidadeBanco from './components/QualidadeBanco';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <AbrirConta />
         <AppMobile />
         <Banco />
+        <QualidadeBanco />
         <Routes>
           <Route />
         </Routes>

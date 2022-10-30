@@ -1,0 +1,41 @@
+#lc-bank-qualidade-titulo{
+    width: 400px;
+    display: flex;
+    margin: auto;
+}
+
+.icon-qualidades-banco{
+    width: 70px;
+    height: 70px;
+    background-color: #06D8A5;
+    display: flex;
+    border-radius: 50%; 
+}
+
+.icon-qualidades-banco div{
+    margin: auto;
+}
+
+.icone-qualidade-component {
+    width: 60%;
+    height: 60%;
+}
+
+.icone-qualidade-component img{
+    width: 100%;
+    height: 100%;
+}
+
+#lc-bank-qualidade-titulo h1{
+    font-size: 45px;
+    padding: 0px;
+    margin-left: 15px;
+}
+
+#lc-bank-container-qualidade p{
+    width: 65%;
+    margin: auto;
+    margin-left: 25%;
+    margin-top: 20px;
+    /* background-color: burlywood; */
+}
