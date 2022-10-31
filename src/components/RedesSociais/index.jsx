@@ -17,7 +17,7 @@ function RedesSociais() {
                 <h1>Não <span>perca</span> nossas <span>novidades</span></h1>
                 <p className='txt-redes-sociais-sub'>Fique atento nas redes sociais da nome para saber nossas novidades</p>
                 <div className='redes-sociais-bank'>
-                    <a href="https://github.com/leandrocvt" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/leandrocvt/fintech-lcbank" target="_blank" rel="noopener noreferrer">
                         <BtnAzulSocial icone={github} titulo={"Github"} txt1={"Novidades a todo momento"} txt2={"Veja o projeto no github"} />
                     </a>
                     <a href="https://www.linkedin.com/in/leandrocavalcantidev" target="_blank" rel="noopener noreferrer">
